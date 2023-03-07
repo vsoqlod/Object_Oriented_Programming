@@ -1,5 +1,5 @@
 """
-Gabriel Quezada, Thuan Nguyen, Jae Bum Jang
+Jae Bum Jang
 Fall 2022, 9/27
 Lab 6 - Group 16
 
